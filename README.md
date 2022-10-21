@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Sufyan Anderson
+### Hi there 👋🏿 My name is Sufyan Anderson
 ![My project-1 (2)](https://user-images.githubusercontent.com/112406976/197093130-70ca35d6-76ef-4019-acec-9dc084ef8b0f.png)
 
 #### Software Engineer at Resilient Coders💻.
