@@ -5,9 +5,9 @@
 
 Skills: MONGO.DB / REACT / JS / HTML / CSS / NODE.js
 
-- 🔭 I’m currently working on a Node.js project 
+- 🔭 I’m currently working on a Express.js project 
 - 🌱 I’m currently learning about Javascript and Node.js 
-- 🤔 I’m looking for help with Node.js 
+- 🤔 I’m looking for help with Express.js 
 - 📫 How to reach me: You can reach me @sufyananderson@gmail.com 
 - ⚡ Fun fact: Devoted Friendly Neighborhood Skateboarder🛹
 
